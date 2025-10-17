@@ -2,4 +2,7 @@
 Practicing GitHub workflow and testing API updates.
 ## Features
 - Simple demo for GitHub stats indexing
-- Created by Leo 🚀
+- Created by rudy 🚀
+## Next Steps
+- Create Calculator App repo
+- Create Translator App repo
